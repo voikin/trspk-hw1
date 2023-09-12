@@ -1,0 +1,15 @@
+/Users/woykin/RiderProjects/hw1/hw1/bin/Debug/net7.0/hw1
+/Users/woykin/RiderProjects/hw1/hw1/bin/Debug/net7.0/hw1.deps.json
+/Users/woykin/RiderProjects/hw1/hw1/bin/Debug/net7.0/hw1.runtimeconfig.json
+/Users/woykin/RiderProjects/hw1/hw1/bin/Debug/net7.0/hw1.dll
+/Users/woykin/RiderProjects/hw1/hw1/bin/Debug/net7.0/hw1.pdb
+/Users/woykin/RiderProjects/hw1/hw1/obj/Debug/net7.0/hw1.csproj.AssemblyReference.cache
+/Users/woykin/RiderProjects/hw1/hw1/obj/Debug/net7.0/hw1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/woykin/RiderProjects/hw1/hw1/obj/Debug/net7.0/hw1.AssemblyInfoInputs.cache
+/Users/woykin/RiderProjects/hw1/hw1/obj/Debug/net7.0/hw1.AssemblyInfo.cs
+/Users/woykin/RiderProjects/hw1/hw1/obj/Debug/net7.0/hw1.csproj.CoreCompileInputs.cache
+/Users/woykin/RiderProjects/hw1/hw1/obj/Debug/net7.0/hw1.dll
+/Users/woykin/RiderProjects/hw1/hw1/obj/Debug/net7.0/refint/hw1.dll
+/Users/woykin/RiderProjects/hw1/hw1/obj/Debug/net7.0/hw1.pdb
+/Users/woykin/RiderProjects/hw1/hw1/obj/Debug/net7.0/hw1.genruntimeconfig.cache
+/Users/woykin/RiderProjects/hw1/hw1/obj/Debug/net7.0/ref/hw1.dll
